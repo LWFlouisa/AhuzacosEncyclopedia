@@ -1,0 +1,2 @@
+# ExtendedAhuzacosEncyclopedia
+Basic encyclopedia webpage.
